@@ -1,4 +1,5 @@
 public class RestaurantManager {
-    final String name= " Canın yeri";
+    final String name= " Canın yeri ";
+ 
     
 }
