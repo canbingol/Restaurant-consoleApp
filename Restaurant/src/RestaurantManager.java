@@ -1,5 +1,3 @@
-import javax.swing.*;
-
 public class RestaurantManager {
     final String name = " Canın yeri";
     public int table;
@@ -26,4 +24,7 @@ public class RestaurantManager {
         System.out.println("Çalışan Sayısı: " + employees);
         System.out.println("parking capacity: " + carPark);
     }
+
+
+
 }
